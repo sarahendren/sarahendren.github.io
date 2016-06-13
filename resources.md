@@ -2,7 +2,13 @@ Here's a linked list of recommended resources, which were invaluable in creating
 
 [Going to pull the resources here from Pinboard, with more context, as I find time: https://pinboard.in/u:caseygollan/t:abler]
 
-## Accessible Web Design
+1. [Accessible web design](#accessible-web-design)
+2. [Content strategy](#content-strategy)
+3. [Performance budgeting](#performance-budgeting)
+4. [Code style](#code-style)
+5. [Style guides](#style-guides)
+
+## Accessible web design
 
 | Resource | Recomendation |
 | :--- | :--- |
@@ -16,7 +22,7 @@ Here's a linked list of recommended resources, which were invaluable in creating
 | | U.S. Web Design Standards by @USDS & @18f, reusable code meeting gov accessibility standards: https://playbook.cio.gov/designstandards/ (_via @ChappellTracker_) |
 | | And, of course, articles from @NNgroup on accessibility that aren't from the year 2000: http://www.nngroup.com/topic/accessibility/ (_via @tinabeans_) |
 
-## On content strategy
+## Content strategy
 
 | Resource | Recomendation |
 | :--- | :--- |
@@ -24,7 +30,7 @@ Here's a linked list of recommended resources, which were invaluable in creating
 | [Mailchimp Content Styleguide](http://styleguide.mailchimp.com/) | |
 | [Toast Redesign Case Study](http://responsivewebdesign.com/toast/) | |
 
-## On performance budgeting
+## Performance budgeting
 
 | Resource | Recomendation |
 | :--- | :--- |
@@ -33,7 +39,7 @@ Here's a linked list of recommended resources, which were invaluable in creating
 | [Speed Curve](https://speedcurve.com/) | |
 | [Sitespeed](https://www.sitespeed.io/) | |
 
-## On code style
+## Code style
 
 Use consistent and modular code style.
 
@@ -48,7 +54,7 @@ Use consistent and modular code style.
 | [Periodic Table of Web Elements](http://zqsmm.qiniucdn.com/data/20110511083224/index.html) | |
 | [Idiomatic CSS](https://github.com/necolas/idiomatic-css) | |
 
-## On style guides
+## Style guides
 
 We're endeavoring to publish a cross-site style-guide which covers all site elements and theme variations.
 
