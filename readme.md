@@ -4,7 +4,7 @@ Here's where you can find documentation on the design and technology behind the 
 
 - **readme.md** (You Are Here)
 - [resources.md](resources.md)
-- about-these-sites.md
+- [about-these-sites.md](about-these-sites.md)
 - contributing.md
 - license.md
 - styleguide.md
