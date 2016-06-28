@@ -2,9 +2,13 @@ Here's where you can find documentation on the design and technology behind the 
 
 ## Contents
 
-- **readme.md** (You Are Here)
-- [resources.md](resources.md)
-- [about-these-sites.md](about-these-sites.md)
+- **Read Me** (You Are Here)
+  - Repositories
+  - Issues
+- [About These Sites](about-these-sites.md)
+  - Design Principles
+  - Technology
+- [Resources](resources.md)
 - contributing.md
 - license.md
 - styleguide.md
