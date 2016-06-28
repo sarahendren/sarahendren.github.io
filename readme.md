@@ -1,6 +1,6 @@
 Here's where you can find documentation on the design and technology behind the _Adaptation + Ability Group_, _Sara Hendren_, and _Abler_ sites.
 
-## Contents
+## Documentation
 
 - **Read Me** (You Are Here)
   - Repositories
