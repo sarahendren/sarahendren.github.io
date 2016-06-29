@@ -2,7 +2,7 @@ DRAAAFT
 
 # About These Sites
 
-Hey it’s the redesigned Abler, Adaptation + Ability Group, and Sara Hendren sites...!
+I've been working with Casey Gollan on a site re-design and one-in-three-in-one structure for Abler, my long running blog, a new site to house the projects of my lab at Olin College, and a personal site for other projects, writing, reading notes, and so on.
 
 ## Why?
 
