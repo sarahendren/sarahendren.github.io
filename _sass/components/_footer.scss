@@ -1,0 +1,47 @@
+footer {
+  background: $primary;
+  color: $white;
+  padding-bottom: 2rem;
+
+  a {
+    color: $white;
+  }
+
+  section.colophon__section.colophon__section--menu {
+    border-top: .5rem solid black;
+    @media only screen and (min-width: $break_md) {
+      border-top: none;
+    }
+  }
+
+  section.colophon__section {
+    padding: 1rem 1.5rem;
+    p {
+      font-size: 1rem;
+      line-height: 1.5;
+    }
+  }
+
+  .colophon__section--menu {
+    background: $white;
+    font-size: 1.5rem;
+    @media only screen and (min-width: $break_md) {
+      font-size: 2rem;
+    }
+    @media only screen and (min-width: $break_lg) {
+      font-size: 1.5rem;
+    }
+    @media only screen and (min-width: $break_xl) {
+      font-size: 2rem;
+    }
+    width: 100%;
+    li {
+      margin-bottom: .5rem;
+    }
+    a {
+      color: black;
+      font-weight: bold;
+      text-decoration: none;
+    }
+  }
+}

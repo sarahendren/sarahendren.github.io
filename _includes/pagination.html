@@ -1,0 +1,18 @@
+<nav class="row pagination">
+    <div class="col-xs-12 col-md-3">
+        {% if page.next %}
+        <a class="nav__item nav--page__item nav__item--previous" href="{{ page.next.url }}">
+            <small>&larr; Previous</small><br>
+            <p>{{ page.next.title }}</p>
+        </a>
+        {% endif %}
+    </div>
+    <div class="col-xs-12 col-md-3 col-md-offset-6 right">
+        {% if page.previous %}
+        <a class="nav__item nav--page__item nav__item--next" href="{{ page.previous.url }}">
+            <small>Next &rarr;</small><br>
+            <p>{{ page.previous.title }}</p>
+        </a>
+        {% endif %}
+    </div>
+</nav>

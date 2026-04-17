@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+<main class="main projects">
+	<div class="container" id="projectsList">
+		<div class="spacer" role="presentation"></div>
+		<div class="row">
+			<div class="col-xs-12">
+				<div class="row">
+					<div class="col-xs-12 col-md-2">
+						<h1 class="title">Projects</h1>
+					</div>
+					<div class="col-xs-12 col-md-10" role="navigation">
+						<a href="#" class="filter" aria-label="interviews filter">Interview</a>
+						<a href="#" class="filter" aria-label="writing filter">Writing</a>
+						<a href="#" class="filter" aria-label="projects filter">Project</a>
+						<a href="#" class="filter" aria-label="talks filter">Talk</a>
+						<a href="#" class="filter" aria-label="remove filter">All</a>
+					</div>
+					<div class="spacer" role="presentation"></div>
+				</div>
+			</div>
+		</div>
+		<div class="col-xs-12">
+			<div class="row projects__row_header">
+				<div class="col-xs-12 col-md-2">
+					<a href="#" aria-label="sort by year" class="sort" data-sort="date">
+						<p>year</p>
+						<img role="presentation" aria-hidden="true" src="/uploads/Triangle.svg" />
+					</a>
+				</div>
+				<div class="col-xs-12 col-md-6">
+					<a href="#" aria-label="sort by project" class="sort" data-sort="name">
+						<p>project</p>
+						<img role="presentation" aria-hidden="true" src="/uploads/Triangle.svg" />
+					</a>
+				</div>
+				<div class="col-xs-12 col-md-2">
+					<a href="#" aria-label="sort by type" class="sort" data-sort="type">
+						<p>type</p>
+						<img role="presentation" aria-hidden="true" src="/uploads/Triangle.svg" />
+					</a>
+				</div>
+				<div class="col-xs-12 col-md-2">
+					<p>tagged</p>
+				</div>
+			</div>
+		</div>
+		<div class="list">
+			{% for item in site.projects-lab reversed %}
+			<div class="col-xs-12">
+				{% include project.html %}
+			</div>
+			{% endfor %}
+		</div>
+		{{ content | markdownify }}
+		<div class="spacer-lg" role="presentation"></div>
+	</div>
+</main>

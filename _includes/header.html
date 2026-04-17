@@ -1,0 +1,42 @@
+<!-- BEGIN markup for Preference Editor -->
+<div class="flc-prefsEditor-separatedPanel fl-prefsEditor-separatedPanel">
+    <!-- This is the div that will contain the Preference Editor component -->
+    <div class="flc-slidingPanel-panel flc-prefsEditor-iframe"></div>
+
+    <!-- This div is for the sliding panel that shows and hides the Preference Editor controls -->
+    <div class="main__header">
+        <nav class="nav--primary container">
+            <div class="row">
+                <div class="col-xs-9 col-md-2 at__start">
+                    <h1 class="header__title"><a href="/">sara hendren</a></h1>
+                </div>
+                <div class="col-xs-12 col-md-9 in__line">
+                    <ul class="nav__list clean__list">
+                        {% assign items = site.pages | sort:"position" %}
+                        {% for item in items %}
+                        {% if item.position and item.title != "home" %}
+                        <li class="nav__item {% if page.url == item.url or page.parent == item.url %}nav__item--active{% endif %}"><a class="nav__link {{ item.slug }}" href="{{ item.url }}">{{ item.title }}</a></li>
+                        {% endif %}
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class="col-xs-3 col-md-1 at__end">
+                    <ul class="clean__list nav__setting">
+                        <li class="nav__item--icon">
+                            <a class="nav__link nav__link--about" href="#footer" title="About These Sites">
+                                About These Sites
+                            </a>
+                        </li>
+                        <li class="nav__item--icon">
+				    <span class="fl-prefsEditor-buttons">
+				          <button id="reset" class="flc-prefsEditor-reset fl-prefsEditor-reset">Reset</button>
+				          <button id="show-hide" class="flc-slidingPanel-toggleButton fl-prefsEditor-showHide">Toggle Reader Preferences</button>
+                    </span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+</div>
+<!-- END markup for Preference Editor -->

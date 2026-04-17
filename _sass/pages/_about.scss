@@ -1,0 +1,31 @@
+.about {
+  background-color: $primary;
+  border-bottom: 1px solid $accent;
+}
+
+.about__text {
+  color: $white;
+  font-size: 1.25rem;
+  @media only screen and (min-width: $break_md) {
+    font-size: 1.75rem;
+  }
+  p {
+    margin: 0;
+    margin-bottom: 2rem;
+    a {
+      color: black;
+      background-color: $accent;
+      text-decoration: none;
+      padding: 0 6px;
+    }
+  }
+  margin-bottom: 2rem;
+}
+
+.about__image {
+  margin: 0;
+  padding: 0;
+  img {
+    width: 100%;
+  }
+}

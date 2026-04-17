@@ -1,0 +1,12 @@
+---
+title: one big thing
+date: 2023-01-12 17:27:00 -05:00
+published: false
+---
+
+Chances are that you belong to some mission-minded nonprofit group that relies on your volunteerism to get its work done in a given year. Schools, churches and synagogues and mosques, kids' teams and clubs. They all have a stream of requests. And chances are also that, in the same way we all think we're slightly better than average drivers, we also think that we're slightly more busy than the average volunteer. (You're probably not.) It keeps many of us hesitating from signing up for volunteer jobs. Or it keeps us half-heartedly following along while someone else runs those jobs and feeling vaguely guilty all year long while raising our hands to lightly assist here or there.
+
+I would suggest to you that lightly assisting here and there creates more emails and coordination confusion (along with low hum of guilt) than would another tactic: Take on one big job per year. Take on one big item on your group's list and do the whole thing, soup to nuts. Plan it, make the purchases, staff it yourself (and ideally with your whole family as an activity), and do the finisher's work of the bitter-end cleanup. Do this for an event or fundraiser that happens every year, once a year, and the cognitive load over all will go down precipitously with each year you do it. We ran a big International Night dinner at the kids' elementary school for years. The first year it was a ton of work. Every year after got easier. We took a whole event off the list of the PTA committee; we commandeered it so we understood all the moving parts, and when it was done, we were done for the year. We do the annual June church picnic this way too. And the annual luncheon for the homeless shelter in our church basement. We do these now as a whole family and get the time together while taking on one big annual project.
+
+We do other stuff too—we all do, I know. Scouts! Model UN! Sports stuff! The lists go on. But I think it's silly that folks are afraid of owning One Big Thing. They worry that they'll be too put-upon to complete something. But if you add up the hours of dithering on email about who's bringing the cups and plates versus the cookies, and who did it last time, and why is my email bouncing back, and who does the receipts, etc etc, five times a year — well, the cumulative time is the same, and the cognitive load too. Just own the one big thing. 
+

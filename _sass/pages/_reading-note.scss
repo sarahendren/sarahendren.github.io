@@ -1,0 +1,33 @@
+.reading-note {
+  .reading-note__row_header {
+    display: none;
+    @media only screen and (min-width: $break_md) {
+      display: flex;
+    }
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  .reading-note__list_item {
+    border-bottom: 1px solid $accent;
+    padding: .5rem 0 2rem;
+
+    p {
+      margin: .5rem 0;
+      font-size: 1.5rem;
+    }
+    .reading-note__title {
+      color: $primary;
+      font-size: 1rem;
+      @media only screen and (min-width: $break_md) {
+        font-size: 1.75rem;
+      }
+      text-decoration: none;
+      h1 {
+        margin: 0;
+      }
+    }
+  }
+  img {
+    width: 100%;
+  }
+}

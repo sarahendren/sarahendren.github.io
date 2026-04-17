@@ -1,0 +1,28 @@
+.home__intro-container {
+    position: absolute;
+    bottom: 0;
+    background: #00000069;
+    color: white;
+    width: calc(100vw - 4rem);
+    padding: 2rem;
+    font-size: 1.5rem;
+    height: calc(100vh - 4rem);
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    a.primary {
+        max-width: 7rem;
+        text-align: center;
+    }
+}
+
+@media only screen and (min-width: 1000px) {
+    .home__intro-container {
+        width: unset;
+        max-width: 700px;
+        height: auto;
+        right: 150px;
+        font-size: 1.75rem;
+    }
+}

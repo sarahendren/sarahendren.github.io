@@ -1,0 +1,13 @@
+---
+title: to create the world that already exists
+date: 2019-04-01 12:28:00 -04:00
+published: false
+---
+
+[The Practice of Spatial Justice in Crisis](https://www.jssj.org/wp-content/uploads/2012/12/JSSJ1-2en2.pdf).
+
+Wendy Brown approaches neoliberalism not primarily as a set of free-market economic policies that dismantle the institutions of welfare states, nor as a political-economic reality, but—following Foucault—as
+a specific form of “political rationality,” a specific kind of “normative political reason [that organizes] the political sphere, government practices, and citizenship.”7 Neoliberalism is a constructivist project; it endeavors to create the world it claims already exists. It not only aims to govern society in the name of the
+economy, but also actively creates institutions that work to naturalize the extension of market rationality to all registers of political and social life. Market-rationality—competition, entrepreneurialism, calculation—is thus not presumed by neoliberalism as an innate human quality, but is rather asserted as normative, and as something that must be actively cultivated. The practice of governance in the neoliberalizing regime is precisely to cultivate such market rationality in every realm. Thus, crucially, what many have called the “rollback phase” of neoliberalism—the dismantlement of the institutions and policies of the Keynesian welfare state—does not amount to the withdrawal of the state or its power from the social sphere. Rather, neoliberalism’s so-called “roll-back” marks the expansion and recalibration of the techniques of governing. A chief technique (as well as product) of such a mode of governance is the entrepreneurial or “responsibilized” citizen—the citizen who manages his or her own well-being through the prudent application of rational self-interest; and thus, neoliberalism “shifts the regulatory competence of the state onto ‘responsible,’ ‘rational’ individuals,” encouraging them to “give their lives a specific entrepreneurial form.”8
+
+[Neoliberalism] is a formation made possible by the production of citizens as individual entrepreneurial actors across all dimensions of their lives, by the reduction of civil society to a domain for exercising this entrepreneurship, and by the figuration of the state as a firm whose products are rational individual subjects, an expanding economy, national security, and global power. Neoliberalism seeks to establish the conditions under which “the state leads and controls subjects without being responsible for them.”10 The critical point is not (merely) that subjects are controlled through their freedom—the premise of governmentality—but the kind of citizen that neoliberalism seeks to constitute, 

@@ -1,0 +1,13 @@
+---
+title: alexa / snips
+date: 2017-12-12 14:00:00 -05:00
+tags:
+- tech
+- disability
+---
+
+Sometime in the past year my son, nearly 12 and has Down syndrome, got to play with Alexa at a friend's house. I only knew this once I went to pick him up, and he exclaimed over how much he loved it. My friends, fellow parents, enjoyed his pleasure so much that they offered to buy him one as a gift that Christmas. I stifled a *hell no,* but it gave me pause.
+
+Because of course he loved Alexa: it's hands-free, voice-activated, and an instant portal to the Broadway musicals and top-40 hits he loves so much. He has low muscle tone, and fine motor tasks are extremely difficult. Plenty of people have extolled the virtues of this *free corporate microphone in your house* for disabled people: for anyone needing voice-driven tech because of mobility issues, or anyone with repeated questions because of dementia-related memory problems. I get it. I do. But too much is lost in that tradeoff. 
+
+Too much is lost, but I won't be screaming about the people who get it as dunderheaded know-nothings. I understand the outrage, but I've seen too many unusual and smart use cases in disability contexts to ever be able to rest on a single view about any given technology. Like a lot of things, it's somewhere in the middle. My refusal will be less like *Wake up, Sheeple,* and more like: I'm holding out for something like [Snips](https://snips.ai/).

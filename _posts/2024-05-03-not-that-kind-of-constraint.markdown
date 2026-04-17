@@ -1,0 +1,6 @@
+---
+title: not that kind of constraint
+date: 2024-05-03 09:02:00 -04:00
+---
+
+I see some folks misunderstand my ["limiting virtues" meditation](https://sarahendren.substack.com/p/the-city-and-the-limiting-virtues) as a version of "constraints help designers make creative choices." It's instructive, I guess, to see — either I didn't explore the idea strongly enough, or readers don't want to take seriously the much more (quietly) radical ideas in McPherson's book: that limits on our *existential* choices are part of how we make our peace with life, that Tyler Harper's "therapeutic libertarianism" — or what Christopher Lasch, by way of Adorno, called the "cult of authenticity" — is the default mode of so much contemporary socio-political discussion, and an active agent that deforms one's character. Taking limits seriously is an enormous challenge, one that I assumed would come across in the piece. But then, it's easier to domesticate *constraints* to the ones we pick and choose, cafeteria-style, for some modest stylistic innovation.

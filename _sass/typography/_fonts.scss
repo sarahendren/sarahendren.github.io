@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Six+Caps');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif');
+
+@font-face {
+  font-family: 'Pitch Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Pitch Sans'),
+       url('../../fonts/pitch_sans/PitchSansWeb-Regular.woff2') format('woff2'),
+       url('../../fonts/pitch_sans/PitchSansWeb-Regular.woff') format('woff'),
+       url('../../fonts/pitch_sans/PitchSansWeb-Regular.eot') format('embedded-opentype');
+}
+
+@font-face {
+  font-family: 'Pitch Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Pitch Sans Italic'),
+       url('../../fonts/pitch_sans/PitchSansWeb-RegularItalic.woff2') format('woff2'),
+       url('../../fonts/pitch_sans/PitchSansWeb-RegularItalic.woff') format('woff'),
+       url('../../fonts/pitch_sans/PitchSansWeb-RegularItalic.eot') format('embedded-opentype');
+}
+
+@font-face {
+  font-family: 'Pitch Sans';
+  font-style: normal;
+  font-weight: bold;
+  src: local('Pitch Sans Italic'),
+  url('../../fonts/pitch_sans/PitchSansWeb-Bold.woff2') format('woff2'),
+  url('../../fonts/pitch_sans/PitchSansWeb-Bold.woff') format('woff'),
+  url('../../fonts/pitch_sans/PitchSansWeb-Bold.eot') format('embedded-opentype');
+}
+
+// Typography
+$base-font-family: 'Pitch Sans', sans-serif;
+
+body {
+  font-family: $base-font-family;
+  line-height: 1.2;
+}
+
+html {
+  font-size: 16px;
+}
+
+p {
+  width: 100%;
+  white-space: normal;
+  word-wrap: break-word;
+}

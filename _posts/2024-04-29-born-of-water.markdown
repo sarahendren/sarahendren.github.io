@@ -1,0 +1,10 @@
+---
+title: born of water
+date: 2024-04-29 07:47:00 -04:00
+---
+
+>Water in the Writ achieves a different, more mysterious kind of sense at a moment in John's Gospel where Nicodemus the Pharisee sneaks away from the Sanhedrin to talk with Jesus. Nicodemus flatters first, then asks questions, some leading, some earnest, as if in search of an entire improvised theology. In answer, Jesus offers epigrams that sound like jokes, or evasions, or muffled dispatches from the world Nicodemus wants so badly to understand. My favorite part of the exchange is the beginning: Jesus tells Nicodemus, apropos of very little — the scholar hasn't asked about salvation or sight — that in order to see God's kingdom one must be born again. Wanting something clearer, Nicodemus feigns a funny, literalist confusion. "How," he asks, and here I imagine a smirk, "can a man be born when he is old? Can he enter a second time into his mother's womb, and be born?" Comes the famous reply: "Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God." It's like something from a sonata — a restatement by way of deepening, distortion, distention, modulation. The sentence isn't necessarily easier to understand, but is somehow, by way of image, more precise.
+>
+>Born of water, I love that. The phrase comes almost pre-wrapped, calls to mind baptism and the bath, but when I hear it I see something else: a man, alone, at the center of a limitless ocean. He's treading desperately, howling whenever he gathers enough breath, and sometimes the sky flushes purple and it rains. Nothing interrupts the hopelessness of the scene: no great fish, no planes, no bugle blasts, no buoys. The new birth is whatever comes next, a miracle or a death. Salvation, then, wouldn't be a walk across the water but a memory of the depths.
+
+—Vinson Cunningham, [Great Expectations](https://www.penguinrandomhouse.com/books/690565/great-expectations-by-vinson-cunningham/)

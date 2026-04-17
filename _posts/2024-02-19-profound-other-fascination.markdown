@@ -1,0 +1,8 @@
+---
+title: profound-other-fascination
+date: 2024-02-19 14:24:00 -05:00
+---
+
+[Zadie Smith](https://www.nybooks.com/articles/2019/10/24/zadie-smith-in-defense-of-fiction/):
+
+>What would our debates about fiction look like, I sometimes wonder, if our preferred verbal container for the phenomenon of writing about others was not “cultural appropriation” but rather “interpersonal voyeurism” or “profound-other-fascination” or even “cross-epidermal reanimation”? Our discussions would still be vibrant, perhaps even still furious — but I’m certain they would not be the same. Aren’t we a little too passive in the face of inherited concepts? We allow them to think for us, and to stand as place markers when we can’t be bothered to think. *What she said*. But surely the task of a writer is to think for herself! And immediately, within that bumptious exclamation mark, an internal voice notes the telltale whiff of baby boomer triumphalism, of Generation X moral irresponsibility…. I *do* believe a writer’s task is to think for herself, although this task, to me, signifies not a fixed state but a continual process: thinking things afresh, each time, in each new situation. This requires not a little mental flexibility. No piety of the culture — whether it be *I think therefore I am*, *To be or not to be*, *You do you*, or *I contain multitudes* —should or ever can be entirely fixed in place or protected from the currents of history. There is always the potential for radical change.

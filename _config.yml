@@ -1,0 +1,78 @@
+---
+title: sara hendren
+timezone: America/New_York
+collections:
+  abler-archive:
+    title: Abler Archive
+    output: true
+  abler-guides:
+    title: Abler Guides
+    output: true
+  projects-lab:
+    title: Projects + Lab
+    output: true
+  posts:
+    title: Reading/Notes
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+- scope:
+    path: ''
+    type: abler-archive
+  values:
+    parent: "/abler-archive/"
+    image: http://placehold.it/400x300
+    image-alt: IMAGE ALT
+    date-display: DISPLAY DATE
+    type: archive
+    layout: abler
+- scope:
+    path: ''
+    type: abler-guides
+  values:
+    parent: "/abler-archive/"
+    date-display: DISPLAY DATE
+    type: guides
+    layout: abler
+- scope:
+    path: ''
+    type: projects-lab
+  values:
+    parent: "/projects-lab/"
+    image: http://placehold.it/400x300
+    image-alt: IMAGE ALT
+    date-display: DISPLAY DATE
+    link: MORE LINK
+    layout: project
+- scope:
+    path: ''
+    type: posts
+  values:
+    parent: "/reading-notes/"
+    layout: reading-note
+url: https://sarahendren.com
+permalink: pretty
+plugins:
+- jekyll-redirect-from
+- jekyll-feed
+- jekyll-assets
+author: Sara Hendren
+exclude:
+- gulpfile.js
+include:
+- _redirects
+assets:
+  prefix: "/assets"
+  digest: true
+  assets:
+  - "*.png"
+  - "*.jpg"
+  sources:
+  - _uploads

@@ -1,0 +1,24 @@
+---
+title: not in any particular order, and not exactly a gospel, but
+date: 2018-03-06 15:54:00 -05:00
+---
+
+Some things the young people in your life might need to hear:
+
+1) **It’s okay to factor a relationship into your professional plans.** If you’re someone lucky enough to have choices in the first place, there will almost never be a simple opposition between a decision that’s purely for your career and one that’s purely for a partnership, or even a possible partnership. This is true even if you’re giving up certain opportunities in favor of people or vice versa, because life isn’t a simple calculation of any one choice or any one year’s event. Your series of aggregate choices will be somewhere in the middle. Your path will become one marked by the decisions you made, but you’re not facing down some irreversible fork in the road with a linear trajectory. It’s almost always subtler than that—and anyway, you can change your mind on at least some of the parameters. 
+
+The point is this: The people you spend time with literally co-create who you are, down to the near-cellular level. You’re building a life. The ones you build it with will be critical to your professional success, not because they’ll be in your field, but because they’ll be in your corner. The good ones will give you a kind of emotional buoyancy and a head-shrinking perspective that will nourish the person you’re trying to become—and yeah, that’ll enhance your job performance immeasurably.
+
+2) **Making decisions can actually be a way to find yourself—not the other way around.** Delaying and wondering endlessly about the right decision, and then worrying and wishing away your lost choices after a decision is made—these are interior habits that may be distracting you from being wherever you find yourself right now and diminishing your capacity to absorb from your experiences whatever you can. That absorption requires you to suspend judgments for short and maybe very long periods, letting some of your experiences unfold without second-guessing them all the time. And then eventually those decisions, the ones made with the best wisdom you could muster, punctuated with mistakes, accreting over years and years—they become a point of view. They can incrementally give you traction that is actually a path, even if you feel like you’re wandering aimlessly. 
+
+3) **Ask yourself: What if everything you’re doing right now is exactly what you need to be doing?** What if it’s all going really well? Let’s assume that there are a hundred factors affecting your life that are out of your control. And then let’s just pretend that everything you’re doing is *perfect,* absolutely ideal. You have to [play the believing game](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1004&context=eng_faculty_pubs) to do this, for just an hour or so. What would be your next move?*
+
+4) **If you’re really stuck but in fortunate possession of a job and health insurance:** Get slightly more mental health support than you absolutely need. Find a way to make acquaintances with people who are much younger or older, a full generation’s distance in one or the other direction and ideally both. And: volunteering in your local community will salve a lot of internal noise.
+
+5) **Here is the hardest thing for many people about adulthood: Staying awake.** That is, resisting the somnambulance that will grow like weeds over any state of habitual life. You have to actively invite experiences into your life that will interrupt the smallness of your story and the calcifying generalizations you make about the world based on your own private universe. Even if you’re someone who is awake and alert to a politics, by your own choice or not—even then, it will be your task to be able to be surprised by your encounters with other people, to be curious and open-handed in your thinking in addition to your salutary anger and your activism. 
+
+But above all staying awake is, as scores of wise writers will tell you: cultivating your astonishment. It’s easy in childhood and then bludgeoned out of your system through many rituals of schooling and cultural conditioning. But astonishment is the fuel for an expansive urgency in your actions, and cultivating it is the habit that builds the possibility for joy.
+
+[And here are things you might say with a dozen non-verbal cues:] I mean you no harm. I sense what you’re puzzling over, but tell me if I'm mistaken. I remember something you said two years ago. I think your story IS a story. It’s okay to be lost. And: You’re enough as you are.
+
+*this is a useful theme in an otherwise [flawed book](https://www.amazon.com/HarperAudio-The-Big-Leap/dp/B00282MRQI/ref=sr_1_1?ie=UTF8&qid=1520377385&sr=8-1&keywords=upper+limit+problem)

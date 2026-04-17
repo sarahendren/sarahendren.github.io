@@ -1,0 +1,29 @@
+.pagination {
+  border-top: 1px solid $accent;
+  padding-top: 1rem;
+  margin-bottom: 4rem;
+  margin-top: 2rem;
+  a {
+    text-decoration: none;
+    small {
+      color: $accent;
+      font-size: 1rem;
+    }
+    p {
+      font-family: 'Noto Serif, sans-sarif';
+      background-size: 1px 1em;
+      box-shadow: inset 0 -3px white, inset 0 -4px $primary;
+      display: inline;
+      font-size: 2rem;
+      font-weight: bold;
+      color: $primary;
+      margin: 0;
+      @media only screen and (min-width: $break_md) {
+        box-shadow: inset 0 -3px white, inset 0 -3.5px $primary;
+      }
+    }
+  }
+  .right {
+    text-align: right;
+  }
+}

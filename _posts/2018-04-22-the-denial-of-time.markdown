@@ -1,0 +1,8 @@
+---
+title: the denial of time
+date: 2018-04-22 12:36:00 -04:00
+---
+
+Another bit in my fledgling collection of words that capture "[one of the great under-narrated pleasures of living: long-term fidelity and love](http://sarahendren.com/2017/07/11/under-narrated/)." This is just a passing glimpse caught in Joan Didion's [The Year of Magical Thinking](https://www.indiebound.org/book/9781400078431), about the year following the death of her longtime husband, John Dunne, but it gets at something important:
+
+>[W]e were equally incapable of imagining life without the other. This will not be a story in which the death of the husband or wife becomes what amounts to the credit sequence for a new life, a catalyst for the discovery that (a point typically introduced in such accounts by the precocious child of the bereaved) "you can love more than one person." Of course you can, but marriage is something different. Marriage is memory, marriage is time. "She didn't know the songs," I recall being told that a friend of a friend had said after an attempt to repeat the experience. Marriage is not only time: it is also, paradoxically, the denial of time. For forty years I saw myself through John's eyes. I did not age. This year for the first time since I was twenty-nine I saw myself through the eyes of others. This year for the first time since I was twenty-nine I realized that my image of myself was of someone significantly younger.

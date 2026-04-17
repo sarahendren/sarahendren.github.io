@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+{% assign item = page %}
+<main class="main reading-note">
+    <div class="container" id="reading-note">
+        <div class="spacer" role="presentation"></div>
+        <div class="row reading-note__list_item">
+            <div class="col-xs-12 col-md-3 center-container">
+                <p class="date">{{ item.date | date: "%b %-d, %Y" }}</p>
+            </div>
+            <div class="col-xs-12 col-md-9 reading-note__title">
+                <h1 class="name">{{ item.title }}</h1>
+            </div>
+        </div>
+        <div class="spacer" role="presentation"></div>
+        <div class="row reading-note__content content">
+            <div class="col-xs-12 col-md-7 col-md-offset-3">
+                {{ page.content | markdownify }}
+            </div>
+        </div>
+        <div class="spacer" role="presentation"></div>
+        {% include pagination.html %}
+    </div>
+</main>

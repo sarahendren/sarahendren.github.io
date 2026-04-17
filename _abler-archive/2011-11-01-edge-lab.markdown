@@ -1,0 +1,16 @@
+---
+title: 2011 11 01 Edge Lab
+date: 2011-11-01 00:00:00 -04:00
+type: archive
+---
+
+<p>The Experimental Design and Gaming Environments lab, or <a href="http://edgelab.ryerson.ca/">EDGE</a> lab, at Ryerson University, works—among other things—on adaptive tech for children with disabilities. Like the <a href="http://hlt.media.mit.edu/">High-Low Tech</a> media lab group where I'm taking a course now, EDGE researchers are committed to democratizing materials for maximum customization and replicability. Following the example of the <a href="http://adaptivedesign.org/">Adaptive Design Association</a> in New York (I'll be posting about them soon!), they're making good use of cardboard and soft circuitry for all kinds of low-cost tools. <a href="http://torontoist.com/2011/10/edge-lab-democratizes-accessible-design/">Torontoist</a> has a profile post:</p>
+<p style="padding-left:30px;">From low-cost wearable garments for speech-impaired children—featuring squeezable buttons that talk—to discreet chair-top self-rocking devices for kids with autism, Nolan and company hope to see their low-cost, DIY designs spread.</p>
+<p style="padding-left:30px;">"We hope everyone keeps sharing these ideas and continues to improve them with their own innovations," says Kenneally. "It's an exciting experiment in democracy!"</p>
+<p><a href="http://ablersite.files.wordpress.com/2011/11/edgezoe-sitting-chair.jpg"><img class="alignnone size-full wp-image-3905" title="EDGEZoe-sitting-chair" src="{{ site.baseurl }}/uploads/edgezoe-sitting-chair.jpg" alt="" width="640" height="428" /></a></p>
+<p>A customized chair for Zoe, who can use it to sit upright without adult or medical assistance.</p>
+<p><a href="http://ablersite.files.wordpress.com/2011/11/edge_circuits.jpg"><img class="alignnone size-full wp-image-3906" title="EDGE_circuits" src="{{ site.baseurl }}/uploads/edge_circuits.jpg" alt="" width="640" height="478" /></a></p>
+<p>Soft buttons that squeak when squeezed; a possible first iteration for wearable communication.</p>
+<p><a href="http://ablersite.files.wordpress.com/2011/11/edge_keyboard.jpg"><img class="alignnone size-full wp-image-3907" title="EDGE_keyboard" src="{{ site.baseurl }}/uploads/edge_keyboard.jpg" alt="" width="640" height="480" /></a></p>
+<p>A customized cardboard alphabet.</p>
+<p><a href="http://torontoist.com/2011/10/edge-lab-democratizes-accessible-design/">Here's the entire Torontoist article</a>.</p>

@@ -1,0 +1,12 @@
+---
+title: on a cloud
+date: 2017-11-30 11:18:00 -05:00
+---
+
+Gizmodo [has a story](https://gizmodo.com/the-last-of-the-iron-lungs-1819079169) on the last remaining users of the iron lung—a 1950's technology that forces the human body to breathe, used by some who contracted polio in that era. The images and connected issues it raises are interesting for anyone thinking about assistive and adaptive technologies: the shelf life of tech and the question of responsibility for its maintenance, the erasure of the polio threat from US cultural memory; the politics of vaccines.
+
+Lately I've been reading about the disability rights pioneer [Ed Roberts](https://en.wikipedia.org/wiki/Ed_Roberts_(activist)), pictured below. He also used an iron lung and, like some of the characters in the Gizmodo piece, thought of it as an extension of his body—a friend, even. He said it felt like "floating on a cloud."
+
+![ed roberts.jpg]({{ site.url }}/uploads/ed%20roberts.jpg)
+
+Giz link via [David Perry](http://www.thismess.net/).

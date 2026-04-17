@@ -1,0 +1,10 @@
+---
+title: a drop of blood in it
+date: 2018-09-04 10:16:00 -04:00
+---
+
+An acquaintance of mine, actor and theater director, likes to say that a good work of art has a drop of blood in it. And what I think he means is: A drop, not a torrent. There's the reality of skin in the game that lurks, a striking of a gong with raw power—but the distance is also present, a scrim between the subject and us, ambiguous spokes flying in all directions, the "emotion recollected in tranquility" and all that. I mean: loosely defined, ok? Not looking for an aesthetics debate.
+
+The drop-not-torrent is there, pitch-perfect, still ringing in my ears and rattling around my brain, in [RaMell Ross's](https://www.ramellross.com/) unbelievably artful new documentary called [Hale County This Morning, This Evening](https://en.wikipedia.org/wiki/Hale_County_This_Morning,_This_Evening). He spoke after a screening at the Brattle Theater's [Doc Yard](http://thedocyard.com/) series this week, where he said that he's interested in doing the estranging and denaturing work with film that happens when you stare at a word for a long time—a long, long time, so that the sound and the shapes of the letters become meaningless and odd again, until at some point they suddenly snap back to ordinary, instantaneous language. 
+
+So his choices in the documentary are to do just that: mixing vérité and super stylized treatments, letting many long shots play far past their utility value, resisting the grammar and rhythm of journalistic film by hanging around, without breaking scenes up into reaction shots, wide-frame to close-up, etc. And the sound design is thrilling throughout. It's not an art film; it's not that impressionistic. There's some text but no narration, and half of that text is a wink back to the viewer. It's a love letter to basketball, and small town communities, and the provisionality of time.  It's got stakes, and patience, and a drop of blood.

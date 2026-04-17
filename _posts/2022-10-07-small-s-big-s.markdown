@@ -1,0 +1,12 @@
+---
+title: small s, big s
+date: 2022-10-07 09:57:00 -04:00
+---
+
+[In thinking about advising a young professional woman on the verge of motherhood]:
+
+I would not have chafed against it so, if I had the chance to start over. When my children were very young, I was caught between the incitement to over-think it, over-perform the verb of "parenting," and my desperate need to work, like oxygen — to live for breaks from the repetitive entropy. It took me too long to find a good babysitter, the first time around. And then by the time I went back to grad school, when the youngest was 16 months or so, I was so starved for work that I was determined to do it all, all at once. In the footage from my graduation ceremony, there are three kids under age 6 around my feet, and the circles under my eyes are deep purple.
+
+But the key thing missing from those early years was this question: Is the family a formative institution for character, by means of sacrifice? In no small way, it is — and that's to the good of all humans involved. This is a truly ancient understanding of the family. But I had only been sold the small-s version, see? That mothers were caught up in double standards, and no-win situations, and that the sacrifice required is mostly ours to take up, unless we resisted strenuously. I still reject that raw deal for moms only. I married a person committed to shared parenting. And I'll keep lobbying for affordable childcare, and good public green space, and the strong structural basics of communities organizing around children as citizens. 
+
+But in rejecting the distorted and gendered version of small-s sacrifice, I threw out also the big-s Sacrifice that is one crucial way of becoming more than selfhood. I lost sight of the generalized way that parenting is a bid to join the human race: to participate in the long story of formation by subtraction. To be made more free by the shearing of ego and the loss of autonomy. I was conscripted into this process, of course. There is no parenting without it. But if I could have seen at least a little bit more of its universality! Its invitation. Nothing would have made those years easy. But I missed the chance to see — in real time, as it unfolded — my self being Formed in a metaphysical way. 

@@ -1,0 +1,11 @@
+<div class="row reading-notes__list_item">
+    <div class="col-xs-12 col-md-2">
+        <p class="date">{{ item.date | date: "%b %-d, %Y" }}</p>
+    </div>
+    <div class="col-xs-12 col-md-10">
+        <a class="reading-notes__title" href="{{ item.url }}">
+            <h1 class="name">{{ item.title }}</h1>
+            <p class="reading-notes__tease">{{ item.excerpt | strip_html | truncatewords: 30 }}</p>
+        </a>
+    </div>
+</div>

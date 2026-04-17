@@ -1,0 +1,10 @@
+---
+title: solutions journalism
+date: 2022-12-02 10:17:00 -05:00
+---
+
+If, like me, you're interested in helping students understand a framework of [critique and repair](https://sarahendren.com/2020/06/30/critique-or-repair-a-call-to-know-your-post/), you might point them to the [Solutions Journalism Network](https://www.solutionsjournalism.org/), which tracks and encourages the practice of news coverage for reparative efforts everywhere:
+
+>Journalism is being called to meet an historic moment. Societies around the globe are reeling from inequality, racism, extreme polarization, political dysfunction and environmental crises. Yet journalism is struggling to be the corrective force it can be. Together, we can do better. By covering solutions to local and global challenges, journalists can equip people in all communities with the knowledge to envision and build a more equitable and sustainable world. We aim to ensure, by 2025, that the majority of US news consumers, and increasing numbers globally, have access to solutions journalism, no matter where or how they get their news. 
+
+Lots of resources [here](https://www.solutionsjournalism.org/)! I'll be talking my students in architecture and urbanism through these ideas as I set them up for their final deliverable: an opinion essay on some aspect of the built environment. I'll be alerting them to the choices they'll make about how to frame their chosen issue: Are you writing *against* a condition of the status quo? Or *for* a world you want to support? Are you uncovering some hidden history to expose injustice? Or pointing to small experiments and burgeoning efforts you'd like to see replicated? Every choice is a tradeoff, but students tend to assume that opinion canonically favors critique. I'm hoping Solutions Journalism offers them another kind of literacy.

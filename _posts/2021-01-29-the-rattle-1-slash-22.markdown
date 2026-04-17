@@ -1,0 +1,14 @@
+---
+title: the rattle 1/29
+date: 2021-01-29 09:07:00 -05:00
+---
+
+— "Essentializing anything in order to contain or dismiss it is always a false friend to reform. For essentialism is extremism, extremism in its denial of plurality, possibility, ambiguity, double usage, multiple identities. The power of nominalism lies in saying this thing can be any number of things; we'll call it when we choose. Giving up essentialism isn't an academic move; it's a way of countering the fanaticism of the single cause. A left critique that employs it, however opportunistically, will soon find itself stranded on the extreme end of public argument. Intersectionalism in a sense does not go far enough. There are countless nodes on the network of social categories. We call each one a person.
+
+So, liberals ask leftists to be extremely suspicious of a too-greedy or opportunistic essentialism that may help dismiss the critics today but that undermines the larger project of human emancipation, a project that depends, first and last, on being able to see past categories and types toward actual people and their predicaments. Antiessentialism is the universal solvent of illiberal thought." —Adam Gopnik, *[A Thousand Small Sanities](https://bookshop.org/books/a-thousand-small-sanities-the-moral-adventure-of-liberalism/9781541699342)*, p 179
+
+— "Basically my whole political platform is this: RSS is the promised land." —[Robin Rendle on newsletters](https://www.robinrendle.com/essays/newsletters) and a more open web. (I do use RSS and I'm not that web-savvy! More on my digital clean-up [here](https://sarahendren.com/2021/01/26/digital-clean-up-2021/).)
+
+— "We are just beginning to see glimpses of what [better public digital] spaces might look like. One model is Vermont’s [Front Porch Forum](https://frontporchforum.com/). Front Porch Forum is essentially a heavily moderated local email list for community discussions that’s been slowly and carefully developed over the past 20 years. Users can post only once a day, every post is read by a moderating team, and if you’re too salty or run afoul of other norms, you’re encouraged to rewrite. This is terrible for short-term engagement — flame wars drive attention and use, after all — and as a business model, all those moderators are costly. But there’s a long-term payoff: two-thirds of Vermont households are on the Forum, and many Vermonters find it a valuable place for thoughtful public discussions." —[Politico](https://frontporchforum.com/media/article64)
+
+Sign up for my newsletter, including a digest of these posts [here](https://tinyletter.com/sarahendren).

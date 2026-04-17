@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+{% assign item = page %}
+<main class="main">
+    <div class="about contact">
+        <div class="spacer" role="presentation"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-lg-10 col-lg-offset-1">
+                    <div class="about__text">
+                        {{ page.content | markdownify }}
+                    </div>
+                </div>
+                <div class="col-xs-12 col-lg-10 col-lg-offset-1">
+                    <div class="about__text">
+                        {% include contact-form.html %}
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="spacer-lg" role="presentation"></div>
+    </div>
+</main>

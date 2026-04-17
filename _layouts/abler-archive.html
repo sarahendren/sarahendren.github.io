@@ -1,0 +1,58 @@
+---
+layout: default
+---
+
+<main class="main ablers">
+    <div class="container" id="projectsList">
+        <div class="spacer" role="presentation"></div>
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="row">
+                    <div class="col-xs-12 col-md-2">
+                        <h1>Abler</h1>
+                    </div>
+                    <div class="col-xs-12 col-md-10" role="navigation">
+                        <a href="#" class="filter" aria-label="archive filter">Archive</a>
+                        <a href="#" class="filter" aria-label="guides filter">Guides</a>
+                    </div>
+                    <div class="col-xs-12 col-md-8 col-md-offset-2">
+                        <p class="ablers__intro">{{ content | markdownify | strip_html}}</p>
+                    </div>
+                    <div class="spacer" role="presentation"></div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12">
+            <div class="row ablers__row_header">
+                <div class="col-xs-12 col-md-2">
+                    <a href="#" aria-label="sort by year" class="sort desc" data-sort="date">
+                        <p>year</p>
+                        <img role="presentation" aria-hidden="true" src="/uploads/Triangle.svg" />
+                    </a>
+                </div>
+                <div class="col-xs-12 col-md-8">
+                    <a href="#" aria-label="sort by project" class="sort" data-sort="name">
+                        <p id="abler-name">post</p>
+                        <img role="presentation" aria-hidden="true" src="/uploads/Triangle.svg" />
+                    </a>
+                </div>
+                <div class="col-xs-12 col-md-2">
+                    <!--<p id="abler-image">image</p>-->
+                </div>
+            </div>
+        </div>
+        <div class="list">
+            {% for item in site.abler-archive reversed %}
+            <div class="col-xs-12">
+                {% include abler.html %}
+            </div>
+            {% endfor %}
+            {% for item in site.abler-guides reversed %}
+            <div class="col-xs-12 abler-guides-row">
+                {% include abler.html %}
+            </div>
+            {% endfor %}
+        </div>
+        <div class="spacer-lg" role="presentation"></div>
+    </div>
+</main>

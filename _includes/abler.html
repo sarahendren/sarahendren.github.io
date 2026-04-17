@@ -1,0 +1,25 @@
+<div class="row ablers__list_item">
+    <div class="col-xs-12 col-md-2">
+        <p class="date">{{ item.date | date: "%b %-d, %Y" }}</p>
+    </div>
+    {% if item.type == 'archive' %}
+    <div class="col-xs-12 col-md-8 abler-content-col">
+        <a class="ablers__title" href="{{ item.url }}">
+            <h1 class="name">{{ item.title }}</h1>
+            <span class="type hidden">{{ item.type }}</span>
+        </a>
+    </div>
+    <div class="col-xs-12 col-md-2 abler-image-col">
+        <!-- <img src="{{ item.image }}" alt="{{ item.image-alt }}" /> -->
+    </div>
+    {% endif %}
+    {% if item.type == 'guides' %}
+    <div class="col-xs-12 col-md-10">
+        <a class="ablers__title" href="{{ item.url }}">
+            <h1 class="name">{{ item.title }}</h1>
+        </a>
+        <span class="type hidden">{{ item.type }}</span>
+        <div class="abler__tease">{{ item.content | markdownify }}</div>
+    </div>
+    {% endif %}
+</div>

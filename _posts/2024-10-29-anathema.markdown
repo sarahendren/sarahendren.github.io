@@ -1,0 +1,14 @@
+---
+title: anathema
+date: 2024-10-29 10:47:00 -04:00
+---
+
+[Steven Scrawls](https://stevenscrawls.com/care-doesnt-scale/):
+
+>Unscalability is anathema to the engineering mind. It’s weirdly terrifying to consider that you could be the CEO of a company devoted to feeding the world, spend your life developing the Food-o-Matic which can feed everyone on the planet, but if you neglect to care for your kids, then your kids just have to live with your neglect.
+>
+>It’s been a good opportunity to re-examine my worldview. I’ve regarded low-scale activities with a kind of casual dismissal for much of my life — not that I don’t respect or value people with occupations operating at an individual level, but I was always skeptical about pursuing such things myself because some part of me thinks “we live in a massive world in a time of massive reach. A textbook could educate thousands of people, a speech could inspire millions, great software could touch the lives of billions. Why would you choose limited pursuits when you can do something limitless? Isn’t unbounded potential for scale better than the mere individual?”
+
+Unscalability is anathema to the engineering mind and to anyone with the rhetorical cynicism that I call "more-systemic-than-thou." If you can name the *even bigger* culprit than ordinary social ills, you...win the conversation, I guess? You point to the need for a remedy so large as to be pure fantasy? And meanwhile, [the small path](https://sarahendren.com/2024/10/18/the-small-path/) beckons.
+
+That essay is via my friend [Jesse](https://jklabs.net/), who makes my beloved [Finite Photos](https://finite.photos/).

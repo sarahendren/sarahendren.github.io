@@ -1,0 +1,57 @@
+.reading-notes {
+  .reading-notes__intro {
+    margin: 0;
+    @media only screen and (min-width: $break_md) {
+      margin-top: 1.75rem;
+    }
+    font-family: 'Noto Serif, sarif';
+    font-style: italic;
+    font-size: 1.5rem;
+  }
+  .reading-notes__row_header {
+    display: none;
+    @media only screen and (min-width: $break_md) {
+      display: flex;
+    }
+
+    text-transform: uppercase;
+    font-weight: bold;
+    a {
+      text-decoration: none !important;
+      color: $primary !important;
+    }
+    p {
+      display: inline-block;
+      width: unset;
+    }
+    img {
+      width: 12px;
+      margin-bottom: -.15rem;
+      margin-left: 0.25rem;
+    }
+  }
+  .reading-notes__list_item {
+    border-top: 1px solid $accent;
+    padding: .5rem 0 4rem;
+
+    .reading-notes__tease {
+      font-family: 'Noto Serif, sans-sarif';
+      font-size: 1.5rem;
+    }
+
+    p {
+      margin: .5rem 0;
+    }
+    .reading-notes__title {
+      color: $primary;
+      font-size: 1rem;
+      @media only screen and (min-width: $break_md) {
+        font-size: 1.5rem;
+      }
+      text-decoration: none;
+      h1 {
+        margin: 0;
+      }
+    }
+  }
+}

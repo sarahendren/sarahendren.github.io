@@ -1,0 +1,34 @@
+---
+title: replacement parts
+date: 2012-10-10 11:52:56 -04:00
+type: archive
+status: publish
+meta:
+  _edit_last: '7812036'
+  _thumbnail_id: '3946'
+  _publicize_pending: '1'
+  switch_like_status: '1'
+  twitter_cards_summary_img_size: a:7:{i:0;i:625;i:1;i:468;i:2;i:2;i:3;s:24:"width="625"
+    height="468"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}
+author:
+  login: sarahendren
+  email: sarahendren@gmail.com
+  display_name: ablerism
+  first_name: Sara
+  last_name: Hendren
+---
+
+<p>A friend sent along <a href="http://www.buzzfeed.com/angelameiquan/21-antique-limbs-for-the-early-amputee-70fn">this Buzzfeed post</a> featuring historical prostheses—and naturally, it belongs here on Abler. It's another one of these photo-round-up posts, presented without comment, that make me curious again about what we're getting when we consume these images.</p>
+<p><a href="http://ablersite.files.wordpress.com/2012/09/enhanced-buzz-16262-1348502175-19.jpg"><img class="alignnone size-full wp-image-3956" title="enhanced-buzz-16262-1348502175-19" src="{{ site.baseurl }}/uploads/enhanced-buzz-16262-1348502175-19.jpg" alt="a &quot;hip disarticulation leg,&quot; from 1928. Metal limbs mimic the human form, with a colander-like bowl for the hip and canvas strap attachments" width="625" height="468" /></a></p>
+<p><a href="http://ablersite.files.wordpress.com/2012/09/enhanced-buzz-3475-1348505239-1.jpg"><img class="alignnone size-full wp-image-3943" title="enhanced-buzz-3475-1348505239-1" src="{{ site.baseurl }}/uploads/enhanced-buzz-3475-1348505239-1.jpg" alt="a simple DIY artificial leg circa 1940. A wooden stick-leg adjoins the body with a &quot;leather knee-cap&quot;" width="625" height="829" /></a></p>
+<p>I'm fascinated, like a lot of people, by the analog ingenuity of these constructions, and the way they evoke the bodies of the people who used them. But I've also been collecting critical voices about the fetishized notion of the prosthetic, making it stand in for everything—"prosthetic memory," prosthetic consciousness," and our vague generalities (mine included) about cyborgs. It may be that the prosthetic really can't hold up as the favored metaphor for investigating all our feelings about the human relationship to technology. Here's Vivian Sobchack, for instance, in the anthology <em>The Prosthetic Impulse: From a Posthuman Present to a Biocultural Future</em>:</p>
+<blockquote><p>Not only do I see myself as fully human (if hardly singular or glamorous), but I also know intimately my prosthetic leg's essential inertia and lack of motivating volition. Indeed, for all the weight that I place on it, it does not run my life. And thus, as I engage a variety of recent work in the humanities and arts, I am both startled and amused at the extraordinary moves made of and by "the prosthetic" of late—particularly since my prosthetic leg can barely stand on its own and certainly will never go out dancing without me."</p>
+<p>from "A Leg to Stand On: Prosthetics, Metaphor, and Materiality" in <em><a href="http://www.amazon.com/The-Prosthetic-Impulse-Posthuman-Biocultural/dp/0262693615/ref=sr_1_1?ie=UTF8&amp;qid=1348675935&amp;sr=8-1&amp;keywords=prosthetic+impulse">The Prosthetic Impulse</a></em><a href="http://www.amazon.com/The-Prosthetic-Impulse-Posthuman-Biocultural/dp/0262693615/ref=sr_1_1?ie=UTF8&amp;qid=1348675935&amp;sr=8-1&amp;keywords=prosthetic+impulse">.</a></p></blockquote>
+<p><a href="http://ablersite.files.wordpress.com/2012/09/enhanced-buzz-25555-1348506990-15.jpg"><img class="alignnone size-full wp-image-3944" title="enhanced-buzz-25555-1348506990-15" src="{{ site.baseurl }}/uploads/enhanced-buzz-25555-1348506990-15.jpg" alt="An iron hand from the 16th century. A latticed brace connects it to the user's forearm, and a hinged metal hand has simple grasping capacity" width="625" height="469" /></a></p>
+<p>It's not that Sobchack or the other scholars in the collection are against the metaphorical as such. It's irresistibly generative for so many imaginative ends, and that's certainly true of this web site.</p>
+<p>I'd venture that the prosthetic will remain irresistible, making appearances on big magazine sites like Buzzfeed, and why? It's just the easiest, most available grammar for externalizing our many stitched-together parts.</p>
+<p><a href="http://ablersite.files.wordpress.com/2012/09/enhanced-buzz-26297-1348503017-5.jpg"><img class="alignnone  wp-image-3945" title="enhanced-buzz-26297-1348503017-5" src="{{ site.baseurl }}/uploads/enhanced-buzz-26297-1348503017-5.jpg" alt="A 19th century wooden leg, pieced together with leather parts at the knees and including a hinged &quot;ankle&quot;" width="625" height="798" /></a></p>
+<p>Like a lot of people, I'm reading D.T. Max's <a href="http://www.amazon.com/Every-Love-Story-Ghost-Wallace/dp/0670025925/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1348598953&amp;sr=1-1&amp;keywords=every+love+story+is+a+ghost+story">new biography</a> of David Foster Wallace, and that same pieced-assemblage, externalized asymmetry is at work in DFW's writing and thinking (and writing and thinking...), too. The excerpts from both his writing and prolific correspondence make clear how troubled he was by the now-familiar but still ever-present task of breaching-the-fragmentation, acknowledging the vast gulf between human consciousnesses, and still: proceeding apace anyway, seeking connection and regeneration.</p>
+<p><a href="http://ablersite.files.wordpress.com/2012/09/enhanced-buzz-30411-1348504209-0.jpg"><img class="alignnone size-full wp-image-3946" title="enhanced-buzz-30411-1348504209-0" src="{{ site.baseurl }}/uploads/enhanced-buzz-30411-1348504209-0.jpg" alt="a working prosthetic big toe, circa 600 BC. Held to the foot part with stitched twine" width="625" height="417" /></a></p>
+<p>Abler will continue with metaphors <em>and</em> with the experiences of those who use prosthetics in daily circumstances. Grounding our discussion in the ways prosthetics are tied to <a href="http://ablersite.org/2011/12/12/because-someones-always-said-it-both-earlier-and-better/">a host of socio-political navigations</a> makes them infinitely more—not less—interesting.<br />
+Hat tip to my old friend <a href="http://briguytheframerguy.blogspot.com/">Brian</a>.</p>

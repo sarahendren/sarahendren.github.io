@@ -1,0 +1,34 @@
+.contact {
+  p {
+    font-size: 1.5rem;
+    margin: 1rem 0;
+    font-size: 1.25rem;
+    @media only screen and (min-width: $break_md) {
+      font-size: 1.75rem;
+    }
+  }
+
+  fieldset.form-group {
+    border: 1px solid white;
+    input, textarea {
+      width: 100%;
+      font-size:1rem;
+      font-family: 'Pitch Sans';
+    }
+  }
+  button.primary {
+    font-family: 'Pitch Sans';
+    background-color: $accent;
+    color: $primary !important;
+    padding: .75rem 1rem;
+    text-decoration: none !important;
+    margin: 2rem 0;
+    min-width: 8rem;
+    text-align: center;
+    font-size: 1.15rem;
+    border: none;
+    &.active {
+      box-shadow: 4px 4px 0 $white;
+    }
+  }
+}

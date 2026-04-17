@@ -1,0 +1,15 @@
+---
+title: building
+date: 2017-11-21 10:38:00 -05:00
+tags:
+- design
+- writing
+---
+
+Jarrett Fuller has an excerpt from an interview [with Dan Hill here](http://jarrettfuller.blog/post/167570094612/dan-hill-on-architecture-user-experience-and), but it's this idea from Stewart Brand's [How Buildings Learn](https://www.penguinrandomhouse.com/books/320919/how-buildings-learn-by-stewart-brand/9780140139969/) that grabbed me the most:
+
+>The word “building” contains the double reality. It means both “the action of the verb build” and “that which is built”—both verb and noun, both the action and the result. Whereas “architecture” may strive to be permanent, a “building” is always building and rebuilding. The idea is crystalline, the fact fluid.
+
+Right. This is the under-construction ethos I'm trying to evoke in my book. Design isn't always objects-for-contemplation. It's evidence of a world in flux.
+
+Also: Jarrett is a terrific visual designer; he helped bring this site into sharper focus recently! He's a freelancer and professor and writer and all-around terrific human. Hire him!

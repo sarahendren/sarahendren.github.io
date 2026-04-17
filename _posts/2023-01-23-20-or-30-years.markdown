@@ -1,0 +1,9 @@
+---
+title: 20 or 30 years
+date: 2023-01-23 09:18:00 -05:00
+---
+
+[Cal Newport](https://www.nytimes.com/interactive/2023/01/23/magazine/cal-newport-interview.html):
+
+>When disruptive technology comes in, it takes a long time to figure out the best way to use it. There’s this case study [in Paul A. David’s “Computer and Dynamo: The Modern Productivity Paradox in a Not-Too-Distant Mirror,” 1989]
+from a Stanford economist about the introduction of the electric motor into the factory. He characterizes how long it takes before we figure out what was in hindsight the obvious way to use electric motors in factories, which was to put a small motor in every piece of equipment so I can control my equipment at exactly the level I want to use it. We didn’t do that for 20 or 30 years. History tells us that it will probably take a generation to figure out what the best kind of collaborative cognitive work looks like when we have external computational aids connected by high-speed digital networks. It’s going to take awhile.

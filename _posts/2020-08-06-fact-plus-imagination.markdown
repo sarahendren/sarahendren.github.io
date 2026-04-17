@@ -1,0 +1,12 @@
+---
+title: fact + imagination
+date: 2020-08-06 10:34:00 -04:00
+---
+
+This is the best description of the artfulness required in non-fiction writing that I've seen. From Francis Spufford, "True Stories," in [True Stories and Other Essays](https://bookshop.org/books/true-stories-and-other-essays/9780300246667).
+
+>The non-fiction writer needs to imagine their facts because that is part of selecting them. There's reality, happily existing without your intervention: the manifold of innumerable objects, systems, histories, persons, languages, interpretations, ideologies, disciplines; knowledge of which is divided often inaccessibly between different knowers, partly available to you on easy terms, partly almost impossible to understand on any terms. But you can't just contemplate the real. A separate act is required to pick out from it: an act that turns a given thing into a chosen one. You have to imagine the real, just as you have to accept the inevitable, if you want to do anything with it. For, once you hold a fact in imagination, temporarily detached from its context by your attention, you can interrogate it. Or maybe that's too transitive, too impatient a word for a process that so centrally requires *waiting*, patiently, for a fact to disclose its qualities.
+>
+>This is something like the non-fiction version of Keats's negative capability, "capable of being in uncertainties, mysteries, doubts, without any irritable reaching after fact or reason." Even when "fact and reason" are the very game you are playing, it turns out that you must deliberately hold off with your over-rapid, over-directive certainties about what kind of story your fact tells, or fits into.
+>
+>You have to be prepared to sit with it in suspension for a while, till it tells you in its own good time—what? What its connections are, causal, historical, associative; what filaments bind it into different possible patterns. What human narratives must lie behind and around it, given the kind of thing it is, though you can see them only dimly. What its mood seems to be, or conceivably its little repertoire of different moods. What ironies may leap or flicker into being around it, depending on the different contexts of the reader's existing knowledge into which it may be put. What ...abstraction-turned-palpable-through-metaphor may help to bring these half-glimpsed potentials into full narrative visibility.

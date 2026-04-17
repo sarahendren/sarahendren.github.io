@@ -1,0 +1,44 @@
+.content {
+  font-family: 'Noto Serif, sans-sarif';
+  font-size: 1.5rem;
+  p {
+    a {
+      text-decoration: none !important;
+      color: $primary;
+      background-size: 1px 1em;
+      box-shadow: inset 0 -3px white, inset 0 -4px #000000;
+      display: inline;
+    }
+    @media only screen and (min-width: $break_md) {
+      a {
+        box-shadow: inset 0 -3px white, inset 0 -3.5px #000000;
+      }
+    }
+  }
+  blockquote {
+    border-left: 10px solid $accent;
+    margin-left: 0;
+    padding-left: 40px;
+    //font-style: italic;
+  }
+  a.more-link {
+    text-decoration: none !important;
+    color: $accent;
+    background-size: 1px 1em;
+    box-shadow: inset 0 -3px white, inset 0 -4px $accent;
+    display: inline;
+    font-weight: bold;
+    @media only screen and (min-width: $break_md) {
+      box-shadow: inset 0 -3px white, inset 0 -3.5px $accent;
+    }
+  }
+}
+
+.hidden {
+  position:absolute;
+  left:-10000px;
+  top:auto;
+  width:1px;
+  height:1px;
+  overflow:hidden;
+}

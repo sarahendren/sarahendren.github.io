@@ -1,0 +1,8 @@
+---
+title: 2010 10 22 Its A Sign
+date: 2010-10-22 00:00:00 -04:00
+type: archive
+---
+
+<p>Second iteration of the accessible-access re-design coming very soon. I found this image last night at Boston Architectural College (otherwise a fine institution)—!</p>
+<p><a href="http://ablersite.files.wordpress.com/2010/10/headlesswheelchair.jpg"><img class="alignnone size-full wp-image-4657" alt="headlesswheelchair" src="{{ site.baseurl }}/uploads/headlesswheelchair.jpg" width="610" height="743" /></a></p>

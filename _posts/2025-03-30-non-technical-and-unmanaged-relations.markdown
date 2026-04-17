@@ -1,0 +1,12 @@
+---
+title: non-technical and unmanaged relations
+date: 2025-03-30 22:04:00 -04:00
+---
+
+[Joseph Davis](https://link.springer.com/book/10.1057/9781137355621):
+
+>For both [Ivan] Illich and [Irving Kenneth] Zola, medicalization constitutes a threat to the human person. It has corrosive effects on human dignity, disabling important aspects of personal and social life, especially for the most vulnerable. The measure of these effects, the ground for their critiques, is a normative picture of the human good that places pre-eminent ethical value on self-governing activity. For Illich, the key criteria for accessing our tools, their productivity or counterproductivity, is whether they serve or undermine "individual freedom realized in personal interdependence." He defines health itself as the "autonomous power to cope," an autonomy rooted not in some disembodied individualism but in "self-care" and non-technical and unmanaged relations within a cultural community. Zola, most directly in his writing on disability, also emphasizes the freedom to control one's own care within a nexus of "mutual aid" and sensitivity to the social sources of suffering. This requires people retaining, as far as possible, the tools to cope with their own lives, express their own values and to help others in non-objectified relations, attending to the whole person and the cultural representations of persons in the wider social milieu.
+
+And:
+
+>In their critique of medicalization, Illich and Zola might both be characterized as "against health," to borrow a provocative phrase from an interview with Illich. The "health" they stand against is not any state of genuine wellbeing but a particular ideology, a healthism, promoted by medicine and increasingly abroad in the wider, medicalized society. The ideology of "health" described by Illich and Zola is an overweening value, an end in itself stripped from any larger context of a well-lived life. It is conceptualized as a kind of commodity that can be engineered, creating and stoking the illusion that the existential realities of pain, suffering, aging, and death can be eliminated. This health, a false image of perpetual youthfulness and psychic serenity, demeans those who do not measure up and reinforces the tendency to isolate them and decrease their social visibility. It drives people to keep turning to medicine even when medicine has nothing worthwhile to offer. And, as internalized, it leads to a kind of self-alienation — the body perceived as a machine, the self experienced as an abstract system.

@@ -1,0 +1,98 @@
+<!doctype html>
+<html class="no-js" lang="">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<title>{{ page.title }} | {{ site.title }}</title>
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="apple-touch-icon" href="/apple-icon-180x180.png">
+		<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+		<link rel="manifest" href="/manifest.json">
+
+		<link rel="stylesheet" type="text/css" href="/node_modules/infusion/dist/assets/src/framework/preferences/css/Enactors.css" />
+		<link rel="stylesheet" type="text/css" href="/node_modules/infusion/dist/assets/src/framework/preferences/css/PrefsEditor.css" />
+		<link rel="stylesheet" type="text/css" href="/node_modules/infusion/dist/assets/src/framework/preferences/css/SeparatedPanelPrefsEditor.css" />
+
+		<link rel="stylesheet" href="/css/main.css">
+		{% feed_meta %}
+	</head>
+	<body {% if page.collection %}class="body--subpage"{% endif %} id="{{ page.title | slugify }}">
+		<!--[if lt IE 8]>
+			<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+		<![endif]-->
+
+		<!-- <div class="flc-toc-tocContainer toc"></div> -->
+
+		<article id="home__video-container">
+			<div class="videobg">
+			  <div class="videobg-width">
+			    <div class="videobg-aspect">
+			      <div class="videobg-make-height">
+			        <div class="videobg-hide-controls">
+			            <iframe src="https://player.vimeo.com/video/113056328?autoplay=1&loop=1&title=0&byline=0&portrait=0&muted=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+			        </div>
+			      </div>
+			    </div>
+			  </div>
+			</div>
+		</article>
+
+		<div class="home__intro-container">
+			{{ page.welcome-text | markdownify }}
+			<a class="primary" href="/about">more →</a>
+		</div>
+
+		<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+		<script type="text/javascript" src="/node_modules/infusion/dist/infusion-all.js" data-no-instant></script>
+		<script src="/js/plugins.js"></script>
+
+		<script src="//cdnjs.cloudflare.com/ajax/libs/fitvids/1.1.0/jquery.fitvids.min.js"></script>
+		<script type="text/javascript">
+			var timeoutId;
+			var $videoBgAspect = $(".videobg-aspect");
+			var $videoBgWidth = $(".videobg-width");
+			var videoAspect = $videoBgAspect.outerHeight() / $videoBgAspect.outerWidth();
+
+			function videobgEnlarge() {
+			  windowAspect = ($(window).height() / $(window).width());
+			  if (windowAspect > videoAspect) {
+			    $videoBgWidth.width((windowAspect / videoAspect) * 100 + '%');
+			  } else {
+			    $videoBgWidth.width(100 + "%")
+			  }
+			}
+
+			$(window).resize(function() {
+			  clearTimeout(timeoutId);
+			  timeoutId = setTimeout(videobgEnlarge, 100);
+			});
+
+			$(function() {
+			  videobgEnlarge();
+			});
+		</script>
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/instantclick/3.0.1/instantclick.min.js" data-no-instant></script>
+		<script data-no-instant>
+			// instantclick + google analytics
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-80670118-1', 'auto');
+
+			InstantClick.on('change', function() {
+			  ga('send', 'pageview', location.pathname + location.search);
+			});
+
+			InstantClick.init();
+		</script>
+
+	</body>
+</html>

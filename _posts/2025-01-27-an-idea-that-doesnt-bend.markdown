@@ -1,0 +1,10 @@
+---
+title: an idea that doesn't bend
+date: 2025-01-27 12:22:00 -05:00
+---
+
+[Phil Christman](https://philipchristman.substack.com/p/robinson-and-dillard-wrapping-up):
+
+>As for [Marilynne] Robinson, what I’ve learned is deceptively simple: Don’t be an ideologue. She uses the word “ideology” in her essays a lot, always pejoratively, and it seems to me that her definition can’t be the standard Marxist one, that “ideology” means the stuff we tell ourselves to sort of fill in the distance between the reality of social structure and the society’s stated values or our desires. One definition Robinson gives is found in the magnificent late essay “Night Thoughts of a Baffled Humanist,” perhaps the greatest literary product of the Tea Party era in American history. She there says that ideology is “a straight-edge ruler in a fractal universe.” An idea that doesn’t bend when the world does. Simple enough!
+>
+>But the thing is, as I reread and reread her, especially the last three books of essays (which I haven’t had as many years to live with as *Death of Adam*), and thought about these repeated denunciations of ideology, I started to realize how pervasive the thing is in precisely her sense of it, and how often I’m guilty of it. For me, the type of example that kept coming up was the false dichotomy. I started to notice how often I feel like I have to choose one theory or model or school of interpretation or way of understanding a phenomenon, or one loosely-associated family of such things, over another, when they do not actually logically exclude each other at all. To the extent that this internal pressure can be formulated as a sentence, it’s something like: “I should be intellectually consistent.” And sure you should, when the nature of the phenomenon calls for it. You should certainly be logically consistent. But it may be that one phenomenon needs to be explained in a totally different way, or several totally different ways. It may be that the world changes. I mean, the world is like that.

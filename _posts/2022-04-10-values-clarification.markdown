@@ -1,0 +1,12 @@
+---
+title: values clarification
+date: 2022-04-10 13:45:00 -04:00
+---
+
+[James Mumford](https://www.thenewatlantis.com/publications/therapy-beyond-good-and-evil), on the therapeutic as a metaphysical paradigm:
+
+> In a pluralistic society, isn’t it right that psychologists stay neutral and refuse to impose particular moral systems, refuse to foist upon us what the political philosopher John Rawls named “comprehensive conceptions of the good?” Isn’t the psychologist, taking me through my values-clarification exercise, merely showing restraint in keeping with his discipline? Isn’t he simply applying the golden rule that therapists must suspend judgment? “The first duty of a psychotherapist,” writes Frank Tallis in his recent book The Act of Living, “is to create a safe space, a situation where difficult and sometimes dangerous truths can be articulated and explored without fear of judgment, rejection, or condemnation.” Indeed, wouldn’t any other approach open up the whole enterprise to abuse, returning us to an age when the cause of lunacy was simply put down to “laxity of morals?”
+> 
+> I don’t think so. I think the psychologists are up to more than suspending judgment. I think they really believe they’ve got straight on what is and is not the case in the world, that they’ve really uncovered the truth of the matter, which is that there are no moral facts, that good and evil are not part of the fabric of the world. This is not just wariness on psychology’s part. It’s radical skepticism. The idea that “we as therapists shouldn’t talk about right and wrong” has become the very different idea that there is no right and wrong in the first place.
+
+I'm always talking to people about this. And—at least where I live, on the east coast of the United States—the therapeutic is so wholly the established bedrock for any hope of "wellness" that it's difficult for most people here to even understand how or why you'd question it as a metaphysics. The therapeutic proceeds from a mechanistic model of the human body *and self*. Its domains are full of useful information and even wisdom about that mechanistic *how*, but psychology should take up the same epistemic humility that's crucial for all disciplines in making claims about the *why* of our lives.

@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+{% assign item = page %}
+<main class="main">
+  <article class="article article--askew article--noimage">
+    <section class="article__header">
+      <div class="article__header__date">
+        {% include shared-includes/date-month-day-year.html %}
+      </div>
+      <div class="article__header__title">
+        {% include shared-includes/title-headline.html %}
+        {% include shared-includes/byline.html %}
+      </div>
+    </section>
+    <section class="content">
+      {{ page.content | markdownify }}
+    </section>
+    {% include shared-includes/page.html %}
+  </article>
+</main>

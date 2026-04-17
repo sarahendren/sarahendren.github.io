@@ -1,0 +1,8 @@
+---
+title: allegorical and ancient
+date: 2025-05-02 10:19:00 -04:00
+---
+
+I am thoroughly enjoying [Birnam Wood](https://us.macmillan.com/books/9780374718015/birnamwood/):
+
+>One of the reasons that horticulture held such strong appeal for Mira was that it offered her a respite from [her] habit of relentless interior critique. When she made things grow, she experienced a kind of manifest forgiveness, an abiding moving-on and making-new that she found impossible in almost every other sphere of life. Even in her failures and mistakes — as when she learned that onion seeds don't tend to keep, or that low soil temperatures result in carrots that are pale, or that fennel inhibits growth in other plants and should be propagated only on its own — she never felt chastised, for truth, in a garden, did not take the form of rectitude, and right was not the opposite of wrong. To learn even something as simple as to water the roots of a plant rather than its leaves was not to be dealt the harsh reality of cold hard fact, but rather to be let into a secret. In a garden, expertise was personal and anecdotal — it was allegorical — it was ancient — it had been handed down; one felt that gardeners across the generations were united in a kind of guild, and that every counsel had the quality of wisdom, gentle, patient, and holistic — and yet unwavering, for there was no quarreling with the laws and tendencies of nature, no room for judgment, no dispute: the proof lay only in the plants themselves, and in the soil, and in the air, and in the harvest.

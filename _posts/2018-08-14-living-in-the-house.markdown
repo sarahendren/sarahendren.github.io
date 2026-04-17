@@ -1,0 +1,10 @@
+---
+title: domus
+date: 2018-08-14 10:33:00 -04:00
+---
+
+>Worldwide, wheat covers 870,000 square miles of the globe's surface, almost ten times the size of Britain. How did this grass turn from insignificant to ubiquitous?
+>
+>Wheat did it by manipulating *Homo sapiens* to its advantage. This ape had been living a fairly comfortable life hunting and gathering until about 10,000 years ago, but than began to invest more and more effort in cultivating wheat. Within a couple of millenia, humans in many parts of the world were doing little from dawn to dusk other than taking care of wheat plants. It wasn't easy. Wheat demanded a lot of them. Wheat didn't like rocks or pebbles, so Sapiens broke their backs clearing fields. Wheat didn't like sharing its space, water, and nutrients with other plants, so men and women laboured long days weeding under the scorching sun. Wheat got sick, so Sapiens had to keep a watch out for worms and blight. Wheat was attacked by rabbits and locust swarms, so the farmers built fences and stood guard over fields. Wheat was thirsty, so humans dug irrigation canals or lugged heavy buckets from the well to water it. Sapiens even collected animal feces to nourish the ground in which wheat grew.
+>
+>The body of *Homo sapiens* had not evolved for such tasks. It was adapted to climbing apple trees and running after gazelles, not to clearing rocks and carrying water buckets. Human spines, knees, necks and arches paid the price. Studies of ancient skeletons indicated that the transition to agriculture brought about a plethora of ailments, such as slipped discs, arthritis and hernias. Moreover, the new agricultural tasks demanded so much time that people were forced to settle permanently next to their wheat fields. This completely changed their way of life. We did not domesticate wheat. It domesticated us. The word "domesticate" comes from the latin *domus*, which means "house." Who's the one living in a house? Not the wheat. It's the Sapiens.

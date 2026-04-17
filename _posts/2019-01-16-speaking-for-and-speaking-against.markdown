@@ -1,0 +1,8 @@
+---
+title: speaking for and speaking against
+date: 2019-01-16 09:00:00 -05:00
+---
+
+>When parents and others do speak about or for people with intellectual disabilities, we need to do so responsibly. For a start, that means surrendering rhetorical techniques that are crude but effective. It’s easy, for example, to play to positive stereotypes of Down syndrome, but doing so would buy into everything I reject: taking the individual for the group; accepting the medical classification of that group as the primary one; auditioning for acceptance making the child a reality show contestant, canned story and all. A victory on these terms is not worth having, because it leaves the larger conceptual errors untouched, and how we conceive of people with disabilities is crucial — which is to say, how we conceive of *we*, of who is counted in the first person plural.
+
+George Estreich, "[I Don't Speak for Laura](https://www.nytimes.com/2017/01/27/opinion/i-dont-speak-for-laura.html)." I'll be in conversation with George at the MIT Press bookstore on March 14, talking about his new book on biotechnology, ethics, disability, and more. Here's his [commentary](https://theconversation.com/youtube-persuasion-and-genetically-engineered-children-107938) on genetically editing children, his [web site](https://georgeestreich.com/), and here's the [event link](http://mitpressbookstore.mit.edu/event/george-estreich-and-sara-hendren-fables-and-futures/). 

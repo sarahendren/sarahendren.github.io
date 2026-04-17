@@ -1,0 +1,127 @@
+// over-rides
+body#abler-archive, body.abler-archive, body.abler-guides {
+  background: $abler-background;
+  color: $primary;
+  .site-header {
+    background: $accent;
+  }
+  main.main.ablers {
+    color: $white;
+    .row.ablers__row_header a {
+      color: $white !important;
+    }
+    a.filter.active {
+      box-shadow: 4px 4px 0 $white;
+    }
+  }
+  .ablers__list_item {
+    .ablers__title {
+      color: $white;
+    }
+    img {
+      width: 100%;
+      height: auto;
+      margin-top: 1rem;
+      @media only screen and (min-width: $break_md) {
+        margin-top: -.5rem;
+        margin-left: 0.5rem;
+      }
+    }
+  }
+  footer {
+    background: $accent;
+    section.colophon__section, section.colophon__section a {
+      color: $primary;
+    }
+    section.colophon__section.colophon__section--menu {
+      border-top: .5rem solid $accent;
+      @media only screen and (min-width: $break_md) {
+        border-top: none;
+      }
+    }
+  }
+}
+
+.ablers {
+  a.filter {
+    display: inline-block;
+    margin: 1rem 0;
+    min-width: 6rem;
+    text-align: center;
+    font-size: 1.15rem;
+    margin-right: .75rem;
+    &:last-of-type {
+      margin-right: 0;
+    }
+    &.active {
+      box-shadow: 4px 4px 0 $primary;
+    }
+  }
+
+  p.ablers__intro {
+    font-family: 'Noto Serif, sarif';
+    font-style: italic;
+    font-size: 1.5rem;
+    margin-top: 0;
+  }
+
+  .none {
+    display: none;
+  }
+
+  .ablers__row_header {
+    display: none;
+    @media only screen and (min-width: $break_md) {
+      display: flex;
+    }
+
+    text-transform: uppercase;
+    font-weight: bold;
+    a {
+      text-decoration: none !important;
+    }
+    p {
+      display: inline-block;
+      width: unset;
+    }
+    img {
+      width: 12px;
+      margin-bottom: -.15rem;
+      margin-left: 0.25rem;
+    }
+  }
+  .ablers__list_item {
+    border-top: 1px solid $accent;
+    padding: .5rem 0 4rem;
+
+    .abler__tease {
+      max-width: 800px;
+      margin: 2rem 0;
+      p {
+        font-family: 'Noto Serif, sans-sarif';
+        font-size: 1.5rem;
+        a {
+          color: $white;
+          background-color: $accent;
+          text-decoration: none;
+          padding: 0 6px;
+        }
+      }
+    }
+
+    p {
+      margin: .5rem 0;
+    }
+    .ablers__title {
+      color: $primary;
+      font-size: 1rem;
+      @media only screen and (min-width: $break_md) {
+        font-size: 1.5rem;
+      }
+      text-decoration: none;
+      h1 {
+        margin: 0;
+      }
+    }
+  }
+}

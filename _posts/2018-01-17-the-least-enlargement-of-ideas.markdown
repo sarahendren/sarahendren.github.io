@@ -1,0 +1,10 @@
+---
+title: the least enlargement of ideas
+date: 2018-01-17 15:03:00 -05:00
+---
+
+From Ralph Waldo Emerson's 1838 lecture on nonviolent resistance, entitled "[War](http://www.nonresistance.org/docs_pdf/Emerson_on_War.pdf)." I got this from [Thinking in Systems](https://www.chelseagreen.com/thinking-in-systems) by Donella Meadows, about which more to come. But it's this notion of ideas-in-things, material culture as an index of values, that is so stirring in Emerson's words here:
+
+>We surround ourselves always, according to our freedom and ability, with true images of ourselves in things, whether it is in ships, books, cannons, or churches. The standing army, the arsenal, the camp, and the gibbet do not appertain to man. They only serve as an index to show where man is now, what a bad ungoverned temper he has, what an ugly neighbor he is, how his affections halt, and how low his hope lies. He who loves the bristle of bayonets only sees in their glitter what beforehand he feels in his heart. It is avarice and hared. It is that quivering lip, that cold hating eye, which built magazines and powder houses.
+>
+>It follows, of course, that the least change in the man will change his circumstances; the least enlargement of his ideas; the least mitigation of his feelings with respect to other men; if, for example, he could be inspired with a tender kindness to the souls of men, and should come to feel that every man was another self with whom he might come to join, as left hand works with right. Every degree of the ascendancy of this feeling would cause the most striking changes of external things: the tents would be struck, the men-of-war would rot ashore, the arms would rust, the cannon would become street lamps, the pikes would become a fisher's harpoons, and the marching regiment would be a caravan of emigrants, peaceful pioneers at the foundation of the Wabash and the Missouri. And so it must and will be. 

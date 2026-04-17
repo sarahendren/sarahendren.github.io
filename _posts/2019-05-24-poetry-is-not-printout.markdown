@@ -1,0 +1,8 @@
+---
+title: poetry is not printout
+date: 2019-05-24 10:32:00 -04:00
+---
+
+Thanks to my friend [Shane](https://www.vassar.edu/faculty/shslatteryquintanilla/) for the pointer to this review of Seamus Heaney's [The Redress of Poetry](https://www.indiebound.org/book/9780374524883), which I just ordered. Here's an excerpt from J.D. McClatchy's review in 1995:
+
+>Poetry is not printout, never merely a fading duplicate of experience. Instead, the book's title essay insists, a poem is the imagined alternative: ''If our given experience is a labyrinth, its impassability can still be countered by the poet's imagining some equivalent of the labyrinth and presenting himself and us with a vivid experience of it.'' And reading, then, is a fable about crossing from one dimension of reality to another. Poetry's counterreality, furthermore, is meant to complicate experience rather than simplify it, to distort in order to reveal. Grotesque or ecstatic, its excess is meant to balance ''life's inadequacies, desolations and atrocities'' without being expected to assume ethical obligations or political motives. Mr. Heaney's first principle is pleasure. After all, ''no honest reader of poems . . . would see moral improvement or, for that matter, political education, as the end and purpose of his or her absorption in a poetic text.'' The pleasure we take in poems -- even our guilty pleasure in poems written by a talented ''oppressor'' -- comes from their sensuous bravura, from their ability to include what Rilke once called ''the side of life that is turned away from us,'' and finally from their instinct to transform the circumstances and conditions of life.

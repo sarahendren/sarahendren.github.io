@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<main class="main">
+  <div class="about">
+    <div class="spacer" role="presentation"></div>
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 col-md-8">
+            <div class="about__text">
+              {{ content | markdownify }}
+            </div>
+          </div>
+          <div class="col-sm-12 col-md-4">
+            <figure class="about__image">
+              <img src="{{page.image}}" alt="Sara Hendren">
+            </figure>
+          </div>
+        </div>
+      </div>
+    <div class="spacer-lg" role="presentation"></div>
+  </div>
+</main>

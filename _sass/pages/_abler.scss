@@ -1,0 +1,52 @@
+.abler {
+  .abler__row_header {
+    color: $white;
+    display: none;
+    @media only screen and (min-width: $break_md) {
+      display: flex;
+    }
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  .abler__content {
+    &.content {
+      color: $white;
+
+      p a {
+        color: $white;
+        box-shadow: inset 0 -0.125em $abler-background, inset 0 -0.15em $white;
+        display: inline;
+      }
+
+    }
+  }
+  .abler__list_item {
+    border-top: 1px solid $accent;
+    padding: .5rem 0 3rem;
+    color: $white;
+
+    p {
+      margin: .5rem 0;
+    }
+    .abler__title {
+      color: $white;
+      font-size: 2rem;
+      text-decoration: none;
+      h1 {
+        margin: 0;
+        font-size: 1.5rem;
+        @media only screen and (min-width: $break_md) {
+          font-size: 3rem;
+        }
+      }
+    }
+  }
+  img {
+    width: 100%;
+  }
+
+  .pagination a p {
+    box-shadow: inset 0 -0.125em $abler-background, inset 0 -0.15em $white;
+    color: $white;
+  }
+}

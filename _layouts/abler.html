@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+{% assign item = page %}
+<main class="main abler">
+    <div class="container" id="abler">
+        <div class="spacer" role="presentation"></div>
+        <div class="col-xs-12">
+            <div class="row abler__row_header">
+                <div class="col-xs-12 col-md-2">
+                    <p>year</p>
+                </div>
+                <div class="col-xs-12 col-md-8">
+                    <p>post</p>
+                </div>
+            </div>
+        </div>
+        <div class="row abler__list_item">
+            <div class="col-xs-12 col-md-2">
+                <p class="date">{{ item.date | date: "%b %-d, %Y" }}</p>
+            </div>
+            <div class="col-xs-12 col-md-8 abler__title">
+                <h1 class="name">{{ item.title }}</h1>
+            </div>
+        </div>
+        <div class="row abler__content content">
+            <!--{% if item.image %}
+              <div class="col-xs-12 col-md-10 col-md-offset-2">
+                  <img src="{{ item.image }}" alt="{{ item.image-alt }}" />
+              </div>
+              <div class="spacer" role="presentation"></div>
+            {% endif %}-->
+            <div class="col-xs-12 col-md-8 col-md-offset-2">
+                {{ page.content | markdownify }}
+            </div>
+        </div>
+        {% include pagination.html %}
+    </div>
+</main>

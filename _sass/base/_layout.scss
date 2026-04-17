@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  word-break: break-word;
+}
+
+.spacer {
+  width: 100%;
+  height: 3rem;
+}
+
+.spacer-lg {
+  width: 100%;
+  height: 6rem;
+}
+
+$break_sm: 48em;
+$break_md: 63em;
+$break_lg: 75em;
+$break_xl: 86em;
+
+// Set the number of columns you want to use on your layout.
+$grid-columns: 12 !default;
+// Set the gutter between columns.
+$gutter-width: 1rem !default;
+// Set a margin for the container sides.
+$outer-margin: 2rem !default;
+// Create or remove breakpoints for your project
+// Syntax:
+// name SIZErem,
+$breakpoints:
+        sm $break_sm 46rem,
+        md $break_md 61rem,
+        lg $break_lg 71rem,
+        xl $break_xl 84rem !default;
+$flexboxgrid-max-width: 1400px !default;
+
+.container {
+  margin: 0 1rem;
+  @media only screen and (min-width: $break_sm) {
+    margin: 0 auto;
+  }
+}
+
+.center-container {
+  justify-content: center;
+  flex-direction: column;
+  display: flex;
+}

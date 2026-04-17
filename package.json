@@ -1,0 +1,24 @@
+{
+  "name": "sarahendren",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahendren/sarahendren.git"
+  },
+  "author": "woody",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahendren/sarahendren/issues"
+  },
+  "homepage": "https://github.com/sarahendren/sarahendren#readme",
+  "dependencies": {
+    "flexboxgrid-sass": "^8.0.5",
+    "infusion": "^2.0.0",
+    "list.js": "^1.5.0"
+  }
+}

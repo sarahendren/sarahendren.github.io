@@ -1,0 +1,6 @@
+[submodule "_includes/shared-includes"]
+	path = _includes/shared-includes
+	url = https://github.com/sarahendren/shared-includes
+[submodule "_sass/shared-styles"]
+	path = _sass/shared-styles
+	url = https://github.com/sarahendren/shared-styles.git

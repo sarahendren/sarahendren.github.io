@@ -1,0 +1,6 @@
+---
+title: a pull and a push
+date: 2023-12-28 09:42:00 -05:00
+---
+
+In the last two years, I've completed a number of short writing projects — a couple of chapters or essays for books (one out this year, and another two coming in 2024), and a few essays for magazines. Editorially speaking, those experiences have all been terrific collaborations, save for one. And that one was sufficiently challenging that it's cured me of the urge to pitch anything for a long while. I've said no to a couple of editors already — editors who I really want to work with! — because I have this short film in production, a new studio, and a couple of book ideas. It can be so tempting to take the shorter assignments instead, to tackle some subjects that lend themselves to essay form and get the more immediate satisfaction of seeing them done. But it was actually pretty easy to say no, to reserve 2024 for the longer-haul projects. Years ago, my mother-in-law told me that when a new venture is pulling you, it can be a gift to get an unpleasant shove of dissatisfaction from the world, as a way of sealing the deal. Getting you out the door. 

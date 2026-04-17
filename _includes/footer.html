@@ -1,0 +1,34 @@
+<footer id="footer" role="footer">
+  <div class="container">
+    <div class="footer__content row">
+      <section class="colophon__section colophon__section--menu col-sm-12 col-md-6 col-lg-3">
+        <ul class="clean__list">
+          {% assign items = site.pages | sort:"position" %}
+          {% for item in items %}
+          {% if item.position and item.title != "home" %}
+          <li><a href="{{ item.url }}">{{ item.title | capitalize }}</a></li>
+          {% endif %}
+          {% endfor %}
+        </ul>
+      </section>
+      <section class="colophon__section col-xs-12 col-md-6 col-lg-3">
+        <h3>colophon</h3>
+        <p>
+          Designed and built by <a href="http://hire.caseyagollan.com">Casey Gollan</a>, <a href="http://jarrettfuller.com">Jarrett Fuller</a>, <a href="https://woodburyshortridge.github.io">Woodbury Shortridge</a> and Sara Hendren.</p><p>Managed with <a href="http://siteleaf.com">Siteleaf</a>, compiled with <a href="http://jekyllrb.com">Jekyll</a>, and hosted on <a href="http://netlify.com/">Netlify</a>. Fonts by <a href="http://commercialtype.com/">Commercial Type</a>.
+      </p>
+      </section>
+      <section class="colophon__section col-xs-12 col-md-6 col-lg-3">
+        <h3>accessibility</h3>
+        <p>
+          This site is designed with accessibility in mind. Reader preferences are powered by the <a href="http://fluidproject.org">Fluid Project</a>'s <a href="http://fluidproject.org/infusion.html">Infusion Framework</a>.
+        </p>
+      </section>
+      <section class="colophon__section col-xs-12 col-md-6 col-lg-3">
+        <h3>open source</h3>
+        <p>
+          Check out this site's code and read about how it was built at the <a href="http://github.com/sarahendren/sarahendren.github.io">documentation site</a>. Your contributions and experiments are welcome.
+        </p>
+      </section>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<main class="main reading-notes">
+	<div class="container" id="projectsList">
+		<div class="spacer" role="presentation"></div>
+		<div class="row">
+			<div class="col-xs-12">
+				<div class="row">
+					<div class="col-xs-12 col-md-4">
+						<h1>reading/notes</h1>
+					</div>
+					<div class="col-xs-12 col-md-8">
+						<!--<p class="reading-notes__intro">notes on reading, teaching, etc</p>-->
+					</div>
+					<div class="spacer" role="presentation"></div>
+				</div>
+			</div>
+		</div>
+		<div class="col-xs-12">
+			<div class="row reading-notes__row_header">
+				<div class="col-xs-12 col-md-2">
+					<a href="#" aria-label="sort by year" class="sort" data-sort="date">
+						<p>year</p>
+						<img role="presentation" aria-hidden="true" src="/uploads/Triangle.svg" />
+					</a>
+				</div>
+				<div class="col-xs-12 col-md-6">
+					<a href="#" aria-label="sort by project" class="sort" data-sort="name">
+						<p>note</p>
+						<img role="presentation" aria-hidden="true" src="/uploads/Triangle.svg" />
+					</a>
+				</div>
+			</div>
+		</div>
+		<div class="list">
+			{% for item in site.posts %}
+			<div class="col-xs-12">
+				{% include reading-note.html %}
+			</div>
+			{% endfor %}
+		</div>
+		{{ content | markdownify }}
+		<div class="spacer-lg" role="presentation"></div>
+	</div>
+</main>
